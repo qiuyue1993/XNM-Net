@@ -1,34 +1,4 @@
-# eXplainable and eXplicit Neural Modules (XNMs)
-
-Pytorch implementation of paper 
-
-**[Explainable and Explicit Visual Reasoning over Scene Graphs](https://arxiv.org/abs/1812.01855)**
-<br>
-[Jiaxin Shi](https://shijx12.github.io), [Hanwang Zhang](http://www.ntu.edu.sg/home/hanwangzhang/#aboutme), Juanzi Li
-
-Flowchart of our model:
-
-<div align="center">
-    <img src="images/flowchart.png" width="60%">
-</div><br/>
-
-A visualization of our reasoning process:
-
-<div align="center">
-    <img src="images/example.png">
-</div><br/>
-
-If you find this code useful in your research, please cite
-``` tex
-@inproceedings{shi2019explainable,
-  title={Explainable and Explicit Visual Reasoning over Scene Graphs},
-  author={Jiaxin Shi, Hanwang Zhang, Juanzi Li},
-  booktitle={CVPR},
-  year={2019}
-}
-```
-
-
+# This repository is forked from [here](https://github.com/shijx12/XNM-Net)
 
 ## Requirements
 - python==3.6
