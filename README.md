@@ -15,9 +15,6 @@ They have 4 experiment settings:
 - CLEVR dataset, GT setting, attention is computed by sigmoid function. Codes are in `./exp_clevr_gt_sigmoid`.
 - VQA2.0 dataset, detected scene graphs. Codes are in `./exp_vqa`.
 
-Gonna to add two new experiment settings:
-- [ ] GQA dataset, GT setting. Codes are in `./exp_gqa_gt_softmax`
-- [ ] CLEVR-GQA dataset, GT setting. For joint train CLEVR and GQA dataset. Codes are in `./exp_clevr-gqa_gt_softmax`
 
 ## Acknowledgement
 - The original authors refer to the repo [clevr-iep](https://github.com/facebookresearch/clevr-iep) for preprocessing codes.
